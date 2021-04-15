@@ -21,4 +21,5 @@ public class Number {
 		else System.out.println("\n²Î");
 	}
 }
-//123
+//12345
+
