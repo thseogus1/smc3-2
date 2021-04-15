@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Number {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("¼ýÀÚ ÀÔ·ÂÇØ ");
+		System.out.print("Â¼Ã½Ã€Ãš Ã€Ã”Â·Ã‚Ã‡Ã˜ ");
 		int a = sc.nextInt();
 		int b,c=0;
 		for(int i = 0; i < 10; i ++) {
@@ -16,8 +16,9 @@ public class Number {
 			
 		}
 		if(c>0) {
-			System.out.println("\n¤º¤»¤º¤»");
+			System.out.println("\nÂ¤ÂºÂ¤Â»Â¤ÂºÂ¤Â»");
 		}
-		else System.out.println("\n²Î");
+		else System.out.println("\nÂ²ÃŽ");
 	}
 }
+//123
