@@ -16,7 +16,7 @@ public class Key {
 				sum+=i;
 			}
 		}
-		System.out.println("1~"+a+"까지 3의 배수이면서 홀수인 수의 합은 27입니다.");
+		System.out.println("1~"+a+"까지 3의 배수이면서 홀수인 수의 합은 "+sum+"입니다.");
 
 	}
 
